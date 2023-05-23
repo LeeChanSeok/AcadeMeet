@@ -20,30 +20,19 @@
   - 그룹 자료실
   
 ✔️ 주요 기술
-  - <img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat&logo=Java&logoColor=white"/>
-  - <img src="https://img.shields.io/badge/WebRTC-0100FF?
-          style=flat&logo=Java&logoColor=white"/> 
-  - <img src="https://img.shields.io/badge/Vue3.js-22741C?
-          style=flat"/>
-  - <img src="https://img.shields.io/badge/SpringBoot-1DDB16?
-          style=flat"/>
-  - <img src="https://img.shields.io/badge/WebSocket-FFE400?
-          style=flat"/>
-  - <img src="https://img.shields.io/badge/JWT Authentication-FF00DD?
-          style=flat"/>
-  - <img src="https://img.shields.io/badge/REST API-FF007F?
-          style=flat"/>
+  - <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/WebRTC-0100FF?style=flat&logo=Java&logoColor=white"/> 
+  - <img src="https://img.shields.io/badge/Vue3.js-22741C?style=flat"/>
+  - <img src="https://img.shields.io/badge/SpringBoot-1DDB16?style=flat"/>
+  - <img src="https://img.shields.io/badge/WebSocket-FFE400?style=flat"/>
+  - <img src="https://img.shields.io/badge/JWT Authentication-FF00DD?style=flat"/>
+  - <img src="https://img.shields.io/badge/REST API-FF007F?style=flat"/>
   
 ✔️ 참조 리소스
-- <img src="https://img.shields.io/badge/ElementPlus-368AFF?
-          style=flat"/>
-- <img src="https://img.shields.io/badge/OpenVidu-1DDB16?
-          style=flat"/>
-- <img src="https://img.shields.io/badge/face api.js-FFE400?
-          style=flat"/>
-- <img src="https://img.shields.io/badge/Web Speech API-FF5E00?
-          style=flat"/>
+- <img src="https://img.shields.io/badge/ElementPlus-368AFF?style=flat"/>
+- <img src="https://img.shields.io/badge/OpenVidu-1DDB16?style=flat"/>
+- <img src="https://img.shields.io/badge/face api.js-FFE400?style=flat"/>
+- <img src="https://img.shields.io/badge/Web Speech API-FF5E00?style=flat"/>
 
 ✔️ 배포 환경
   - URL: https://i8d108.p.ssafy.io/
